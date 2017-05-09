@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+As a hybrid web/print designer of nearly 20 years, I’ve enjoyed the opportunity to work on myriad projects in TV, news, online media, magazines, music, and much more.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Right now, however, my full re-education into advanced web development tools has been the most challenging, and by adding more steadily to this Github site, I hope to showcase steady improvement and useful programs/applets/etc. worth sharing.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Check out my Portfolio site to see my complete up-to-date projects and clients that I have worked with as a freelance designer. I also post a lot of my own music and mixes online my Soundcloud profile. Get at me online via Twitter.
+
