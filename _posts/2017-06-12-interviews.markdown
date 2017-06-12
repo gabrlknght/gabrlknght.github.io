@@ -7,6 +7,7 @@ categories: developer interview industry
 
 As I'm currently interviewing with companies for a new web developer position, I felt that it's fair to share some of the recent projects I've worked on here with you...
 
+---
 
 # [Supreme Sports Performance and Training][sspt-site]
 Supreme Sports Performance and Training is a training gym for professional powerlifters. I did onsite consulting and training directly with the client to help them manage their own branding and online presence. This was a Wordpress migration to Squarespace w/ custom documentation added for self-sufficient ongoing management by the client.
