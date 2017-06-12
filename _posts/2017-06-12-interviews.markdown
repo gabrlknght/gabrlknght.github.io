@@ -7,7 +7,6 @@ categories: developer interview industry
 
 As I'm currently interviewing with companies for a new web developer position, I felt that it's fair to share some of the recent projects I've worked on here with you...
 
----
 
 [Supreme Sports Performance and Training][sspt-site] : Supreme Sports Performance and Training is a training gym for professional powerlifters. I did onsite consulting and training directly with the client to help them manage their own branding and online presence. This was a Wordpress migration to Squarespace w/ custom documentation added for self-sufficient ongoing management by the client.
 
@@ -19,7 +18,6 @@ As I'm currently interviewing with companies for a new web developer position, I
 
 [Edge Education][edge-ed] : Edge Ed is a VA-based testing prep organization that I have worked with over the years. Previously, I had maintained their site on Wordpress. Currently, it runs Drupal 7 w/ commerce features.
 
----
 
 To see more examples, head to my [portfolio][hi-portfolio] to see more...
 
