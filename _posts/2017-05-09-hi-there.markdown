@@ -1,15 +1,16 @@
 ---
 layout: post
-title:  "Hi there."
-date:   2017-05-09 15:18:56 +0000
+title: Hi there.
+date: '2017-05-09 15:18:56 +0000'
 categories: github profile introduction
 ---
-As a hybrid web/print designer of nearly 20 years, I've enjoyed the opportunity to work on myriad projects in TV, news, online media, magazines, music, and much more. 
+
+As a hybrid web/print designer of nearly 20 years, I've enjoyed the opportunity to work on myriad projects in TV, news, online media, magazines, music, and much more.
 
 Right now, however, my full re-education into advanced web development tools has been the most challenging, and by adding more steadily to this Github site, I hope to showcase steady improvement and useful programs/applets/etc. worth sharing.
 
 Check out my [Portfolio site][portfolio-site] to see my complete up-to-date projects and clients that I have worked with as a freelance designer. I also post a lot of my own music and mixes online my [Soundcloud profile][soundcloud-profile]. Get at me online via [Twitter][my-twitter].
 
-[portfolio-site]: http://harbinger-industries.net
-[soundcloud-profile]:   https://soundcloud.com/djsevendc
 [my-twitter]: https://twitter.com/av1k
+[portfolio-site]: http://harbinger-industries.net
+[soundcloud-profile]: https://soundcloud.com/djsevendc
