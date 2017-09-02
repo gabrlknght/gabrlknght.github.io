@@ -1,0 +1,37 @@
+---
+layout: post
+title: Hired
+date: '2017-09-02 09:08:00 +0000'
+categories: developer interview job hired
+---
+
+I'm really happy to announce that on Sept. 5th, I'll begin a new job as a web developer for WDG (Web Development Group) in Alexandria, VA. They're an award-winning design agency that creates some of the best and most expansive Wordpress/Drupal-based websites for large clients nationwide. See some of their amazing work below...
+
+---
+
+
+# [United States Institute of Peace][usip-site]
+The United States Institute for Peace is an independent, nonpartisan, federally-funded organization which works to prevent, mitigate, and resolve violent conflict around the world. USIP engages directly in conflict zones and provides analysis, education, and resources to those working for peace.
+
+
+---
+
+
+# [Folger Shakespeare Library][fsl-site]
+The Folger Shakespeare Library houses the largest collection of historical Shakespearian literature, manuscripts, and artifacts in the world. Folger is internationally recognized as a leader in the preservation of rare materials, digital humanities research and initiatives, and advanced scholarly programs. They also provide print and digital resources for academics and students of every age.
+
+
+---
+
+
+# [Flight Safety Foundation][fsf-site]
+Edge Ed is a VA-based testing prep organization that I have worked with over the years. Previously, I had maintained their site on Wordpress. Currently, it runs Drupal 7 w/ commerce features.
+
+
+# But wait! There's more...
+To see more examples, head to their work section [portfolio][wdg-portfolio] to see more...I'm super excited to join such an amazing team of designers and developers!
+
+[fsf-site]: https://www.webdevelopmentgroup.com/work/flight-safety-foundation/
+[usip-site]: https://www.webdevelopmentgroup.com/work/united-states-institute-of-peace/
+[fsl-site]: https://www.webdevelopmentgroup.com/work/folger-shakespeare-library/
+[wdg-portfolio]: https://www.webdevelopmentgroup.com/work/
