@@ -25,7 +25,7 @@ The Folger Shakespeare Library houses the largest collection of historical Shake
 
 
 # [Flight Safety Foundation][fsf-site]
-Edge Ed is a VA-based testing prep organization that I have worked with over the years. Previously, I had maintained their site on Wordpress. Currently, it runs Drupal 7 w/ commerce features.
+Flight Safety Foundation (FSF) is the premier independent, international nonprofit flight safety organization which serves to protect everyone who enjoys the aviation industry. FSF’s membership includes more than 1,000 organizations and individuals in 150 countries, including major airlines. FSF’s research and advocacy is vital to the safety and integrity of the aviation industry.
 
 
 # But wait! There's more...
