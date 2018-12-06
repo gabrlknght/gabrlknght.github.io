@@ -1,8 +1,0 @@
----
-layout: post
-title: Is This On?
-date: '2018-7-20 09:08:00 +0000'
-categories: is this on
----
-
-Just confirming Github pages works really easily and nowhere near as hard as I think it does. Let's see if this works!
