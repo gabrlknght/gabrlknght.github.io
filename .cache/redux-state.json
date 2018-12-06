@@ -1,22 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "jsonName": "dev-404-page-5f9",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Applications/MAMP/htdocs/gabrlknght.github.io/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/Applications/MAMP/htdocs/gabrlknght.github.io/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d8f181b09cc3fc5aed93ba65c5613173",
-        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -1316,16 +1307,14 @@
       "siteMetadata": {
         "siteUrl": "https://gabrlknght.github.io/gabrlknght"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "/gabrlknght",
       "polyfill": true,
-      "buildTime": "2018-12-06T20:18:32.940Z",
+      "buildTime": "2018-12-06T21:14:41.160Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e6f69d47b281b9288c763f7e8e10e7c9",
+        "contentDigest": "218c2141be39e79b7fa742cd43ec6e8c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1335,7 +1324,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "cf73c511054dea4ce89fa1f36949b46f",
+        "contentDigest": "59a022a209668f7aeaa2faecb055c37d",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1347,7 +1336,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-12-06T19:47:20.927Z",
-      "accessTime": "2018-12-06T20:18:35.919Z",
+      "accessTime": "2018-12-06T21:14:46.194Z",
       "changeTime": "2018-12-06T20:13:37.066Z",
       "birthTime": "2018-12-06T18:13:08.125Z",
       "root": "/",
@@ -1365,11 +1354,11 @@
       "blksize": 4096,
       "ino": 9887358,
       "blocks": 0,
-      "atimeMs": 1544127515918.8352,
+      "atimeMs": 1544130886193.7195,
       "mtimeMs": 1544125640926.5654,
       "ctimeMs": 1544127217066.4639,
       "birthtimeMs": 1544119988124.623,
-      "atime": "2018-12-06T20:18:35.919Z",
+      "atime": "2018-12-06T21:14:46.194Z",
       "mtime": "2018-12-06T19:47:20.927Z",
       "ctime": "2018-12-06T20:13:37.066Z",
       "birthtime": "2018-12-06T18:13:08.125Z"
@@ -1394,7 +1383,7 @@
       "size": 50443,
       "prettySize": "50.4 kB",
       "modifiedTime": "2018-08-31T15:29:35.355Z",
-      "accessTime": "2018-12-06T20:16:28.023Z",
+      "accessTime": "2018-12-06T20:58:26.772Z",
       "changeTime": "2018-12-06T20:13:37.066Z",
       "birthTime": "2018-08-31T15:29:35.355Z",
       "root": "/",
@@ -1412,24 +1401,14 @@
       "blksize": 4096,
       "ino": 9887361,
       "blocks": 104,
-      "atimeMs": 1544127388022.8223,
+      "atimeMs": 1544129906771.7805,
       "mtimeMs": 1535729375355.4307,
       "ctimeMs": 1544127217066.367,
       "birthtimeMs": 1535729375354.7717,
-      "atime": "2018-12-06T20:16:28.023Z",
+      "atime": "2018-12-06T20:58:26.772Z",
       "mtime": "2018-08-31T15:29:35.355Z",
       "ctime": "2018-12-06T20:13:37.066Z",
       "birthtime": "2018-08-31T15:29:35.355Z"
-    },
-    "4c399448-a346-54e9-91f6-dee2b0eb29a0": {
-      "id": "4c399448-a346-54e9-91f6-dee2b0eb29a0",
-      "children": [],
-      "parent": "ef3d3185-a49d-5b81-81cf-14dc14efb5d6",
-      "internal": {
-        "contentDigest": "a7741c8295dd10800bf9fc233fae5d2b",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "9d4ff744-22dc-5daa-9ba7-0f8d3436e80e": {
       "id": "9d4ff744-22dc-5daa-9ba7-0f8d3436e80e",
@@ -1449,7 +1428,7 @@
       "size": 259,
       "prettySize": "259 B",
       "modifiedTime": "2018-12-06T18:13:08.126Z",
-      "accessTime": "2018-12-06T20:16:28.022Z",
+      "accessTime": "2018-12-06T21:14:30.389Z",
       "changeTime": "2018-12-06T20:13:37.064Z",
       "birthTime": "2018-12-06T18:13:08.126Z",
       "root": "/",
@@ -1467,14 +1446,44 @@
       "blksize": 4096,
       "ino": 9887359,
       "blocks": 8,
-      "atimeMs": 1544127388022.1523,
+      "atimeMs": 1544130870389.3176,
       "mtimeMs": 1544119988125.6584,
       "ctimeMs": 1544127217064.0752,
       "birthtimeMs": 1544119988125.511,
-      "atime": "2018-12-06T20:16:28.022Z",
+      "atime": "2018-12-06T21:14:30.389Z",
       "mtime": "2018-12-06T18:13:08.126Z",
       "ctime": "2018-12-06T20:13:37.064Z",
       "birthtime": "2018-12-06T18:13:08.126Z"
+    },
+    "4c399448-a346-54e9-91f6-dee2b0eb29a0": {
+      "id": "4c399448-a346-54e9-91f6-dee2b0eb29a0",
+      "children": [],
+      "parent": "ef3d3185-a49d-5b81-81cf-14dc14efb5d6",
+      "internal": {
+        "contentDigest": "a7741c8295dd10800bf9fc233fae5d2b",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /offline-plugin-app-shell-fallback/": {
+      "jsonName": "offline-plugin-app-shell-fallback-a30",
+      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
+      "path": "/offline-plugin-app-shell-fallback/",
+      "component": "/Applications/MAMP/htdocs/gabrlknght.github.io/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+      "context": {},
+      "pluginCreator___NODE": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "pluginCreatorId": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "componentPath": "/Applications/MAMP/htdocs/gabrlknght.github.io/node_modules/gatsby-plugin-offline/app-shell.js",
+      "id": "SitePage /offline-plugin-app-shell-fallback/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "1b3743ab2a4c165c966192fc65afae41",
+        "description": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+        "owner": "internal-data-bridge"
+      }
     },
     "SitePage /": {
       "jsonName": "index",
@@ -1499,7 +1508,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "da7689d1b55d74a028da3f4f12278b03"
+    "PLUGINS_HASH": "23e69c2c7317368aeffe7b84f31dc9e7"
   },
   "componentDataDependencies": {
     "nodes": {},
@@ -1511,13 +1520,13 @@
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
+    "/Applications/MAMP/htdocs/gabrlknght.github.io/node_modules/gatsby-plugin-offline/app-shell.js": {
+      "query": "",
+      "componentPath": "/Applications/MAMP/htdocs/gabrlknght.github.io/node_modules/gatsby-plugin-offline/app-shell.js"
+    },
     "/Applications/MAMP/htdocs/gabrlknght.github.io/src/pages/index.jsx": {
       "query": "",
       "componentPath": "/Applications/MAMP/htdocs/gabrlknght.github.io/src/pages/index.jsx"
-    },
-    "/Applications/MAMP/htdocs/gabrlknght.github.io/.cache/dev-404-page.js": {
-      "query": "",
-      "componentPath": "/Applications/MAMP/htdocs/gabrlknght.github.io/.cache/dev-404-page.js"
     }
   },
   "staticQueryComponents": {}
