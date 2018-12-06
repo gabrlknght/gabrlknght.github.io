@@ -6,7 +6,7 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/Applications/MAMP/htdocs/gabrlknght.github.io/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Avik Nandy • Full Stack Developer • Designer • DJ • Music Producer","short_name":"Avik Nandy","description":"Work / Portfolio / Music site of Avik Nandy.","start_url":"/gabrlknght","background_color":"#a0d8f1","theme_color":"#e07628","display":"standalone","icons":[{"src":"/favicons/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/favicons/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}]},
+      options: {"plugins":[],"name":"Avik Nandy • Full Stack Developer • Designer • DJ • Music Producer","short_name":"Avik Nandy","description":"Work / Portfolio / Music site of Avik Nandy.","start_url":"/","background_color":"#a0d8f1","theme_color":"#e07628","display":"standalone","icons":[{"src":"/favicons/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/favicons/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

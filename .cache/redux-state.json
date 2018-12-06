@@ -739,109 +739,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "533e1bea-981c-5b5a-945a-1dd8720ce8f0": {
-      "resolve": "/Applications/MAMP/htdocs/gabrlknght.github.io/node_modules/gatsby-plugin-manifest",
-      "id": "533e1bea-981c-5b5a-945a-1dd8720ce8f0",
-      "name": "gatsby-plugin-manifest",
-      "version": "2.0.11",
-      "pluginOptions": {
-        "plugins": [],
-        "name": "Avik Nandy • Full Stack Developer • Designer • DJ • Music Producer",
-        "short_name": "Avik Nandy",
-        "description": "Work / Portfolio / Music site of Avik Nandy.",
-        "start_url": "/gabrlknght",
-        "background_color": "#a0d8f1",
-        "theme_color": "#e07628",
-        "display": "standalone",
-        "icons": [
-          {
-            "src": "/favicons/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-          },
-          {
-            "src": "/favicons/android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-          }
-        ]
-      },
-      "nodeAPIs": [
-        "onPostBootstrap"
-      ],
-      "browserAPIs": [],
-      "ssrAPIs": [
-        "onRenderBody"
-      ],
-      "pluginFilepath": "/Applications/MAMP/htdocs/gabrlknght.github.io/node_modules/gatsby-plugin-manifest",
-      "packageJson": {
-        "name": "gatsby-plugin-manifest",
-        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
-        "version": "2.0.11",
-        "main": "index.js",
-        "keywords": [
-          "gatsby",
-          "gatsby-plugin",
-          "favicon",
-          "icons",
-          "manifest.webmanifest",
-          "progressive-web-app",
-          "pwa"
-        ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "@babel/runtime",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "bluebird",
-            "version": "^3.5.0"
-          },
-          {
-            "name": "sharp",
-            "version": "^0.21.0"
-          }
-        ],
-        "devDependencies": [
-          {
-            "name": "@babel/cli",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "@babel/core",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "babel-preset-gatsby-package",
-            "version": "^0.1.3"
-          },
-          {
-            "name": "cross-env",
-            "version": "^5.1.4"
-          }
-        ],
-        "peerDependencies": [
-          {
-            "name": "gatsby",
-            "version": ">2.0.0-alpha"
-          }
-        ],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "contentDigest": "02abaf37633df81b477dd2ef3c5f9046",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
     "63e5f7ff-e5f1-58f7-8e2c-55872ac42281": {
       "resolve": "/Applications/MAMP/htdocs/gabrlknght.github.io/node_modules/gatsby-plugin-offline",
       "id": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
@@ -1305,16 +1202,16 @@
     },
     "Site": {
       "siteMetadata": {
-        "siteUrl": "https://gabrlknght.github.io/gabrlknght"
+        "siteUrl": "https://gabrlknght.github.io"
       },
-      "pathPrefix": "/gabrlknght",
+      "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-12-06T21:14:41.160Z",
+      "buildTime": "2018-12-06T21:24:19.019Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "218c2141be39e79b7fa742cd43ec6e8c",
+        "contentDigest": "52bae6a6821ac0efb82b1e8b833664ff",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1324,7 +1221,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "59a022a209668f7aeaa2faecb055c37d",
+        "contentDigest": "ca704abd15da3e32fd01efa79efa0e90",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1336,7 +1233,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-12-06T19:47:20.927Z",
-      "accessTime": "2018-12-06T21:14:46.194Z",
+      "accessTime": "2018-12-06T21:24:23.469Z",
       "changeTime": "2018-12-06T20:13:37.066Z",
       "birthTime": "2018-12-06T18:13:08.125Z",
       "root": "/",
@@ -1354,11 +1251,11 @@
       "blksize": 4096,
       "ino": 9887358,
       "blocks": 0,
-      "atimeMs": 1544130886193.7195,
+      "atimeMs": 1544131463468.913,
       "mtimeMs": 1544125640926.5654,
       "ctimeMs": 1544127217066.4639,
       "birthtimeMs": 1544119988124.623,
-      "atime": "2018-12-06T21:14:46.194Z",
+      "atime": "2018-12-06T21:24:23.469Z",
       "mtime": "2018-12-06T19:47:20.927Z",
       "ctime": "2018-12-06T20:13:37.066Z",
       "birthtime": "2018-12-06T18:13:08.125Z"
@@ -1463,6 +1360,109 @@
         "contentDigest": "a7741c8295dd10800bf9fc233fae5d2b",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "ca9b8eac-6dd1-5c0c-b223-003c655236c3": {
+      "resolve": "/Applications/MAMP/htdocs/gabrlknght.github.io/node_modules/gatsby-plugin-manifest",
+      "id": "ca9b8eac-6dd1-5c0c-b223-003c655236c3",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.11",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "Avik Nandy • Full Stack Developer • Designer • DJ • Music Producer",
+        "short_name": "Avik Nandy",
+        "description": "Work / Portfolio / Music site of Avik Nandy.",
+        "start_url": "/",
+        "background_color": "#a0d8f1",
+        "theme_color": "#e07628",
+        "display": "standalone",
+        "icons": [
+          {
+            "src": "/favicons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+          },
+          {
+            "src": "/favicons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Applications/MAMP/htdocs/gabrlknght.github.io/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.11",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "36bde941c66f80132fcb03268881058b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
       }
     },
     "SitePage /offline-plugin-app-shell-fallback/": {
