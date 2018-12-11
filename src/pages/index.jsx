@@ -248,11 +248,11 @@ const Index = () => (
           <AboutHero>
             <Avatar src={avatar} alt="Avik Nandy" />
             <AboutSub>
-              Print & Web designer of 20+ yrs. • Drum & Bass DJ • Music Producer • Full Stack Developer • News Junkie • All Around Nerd
+              Print & Web designer of 20+ yrs. • Drum & Bass DJ • Music Producer • Full Stack Developer • All Around Nerd
             </AboutSub>
           </AboutHero>
           <AboutDesc>
-          <p>Before we get started, you pronounce it like “there are seven days in Avik.” Now, that being said… I design for web and also have worked as a print designer for over 15 years. I’ve worked on everything from club flyers, to magazines (print/Kindle/digital), newspapers, and television. These days, I work mostly on web & interactive media projects. I have been working in the DC area providing web/print design services to the Electronic Dance Music community here and other areas of interest as well.</p>
+          <p>Before we get started, you pronounce it like “there are seven days in Avik.” Now, that being said… I design for web and also have worked as a print designer for over 20 years. I’ve worked on everything from club flyers, to magazines (print/Kindle/digital), newspapers, and television. These days, I work mostly on web & interactive media projects. I have been working in the DC area providing web/print design services to the Electronic Dance Music community here and other areas of interest as well.</p>
 
           <p>Beyond that, I’m a nerd, or at least try to be. I read a lot in my spare time, and I spend a lot of time writing code, programming, and designing new sites and projects on my own. I’m fluent on Macs and PCs. Have been using PCs over 20 years and have been using a Mac for over 10 years. I am Apple Hardware/OS certified and can repair Macs as well. I’m familiar w/ the many ins-and-outs of maintaining and securing both Macs and PCs. I’ve been DJing drum & bass for 15 yrs. Favorite variants are liquid, techstep, and a bit more on the autonomic tip as of late…I’m slowly getting into dubstep, but honestly, I still kick it better between 174 – 178bpm. I have a soundcloud profile online <a href="https://soundcloud.com/djsevendc" target="_blank" rel="noopener noreferrer" title="DJ Seven on SoundCloud">here</a>, too. Check it out.</p>
           </AboutDesc>
@@ -286,7 +286,7 @@ const Index = () => (
         </Inner>
         <Footer>
           &copy; 2018 • <a href="https://harbinger-industries.net/" target="_blank" rel="noopener noreferrer" title="Harbinger Industries">Harbinger Industries</a>.{' '}
-          <a href="https://github.com/gabrlknght">Github</a>.
+          <a href="https://github.com/gabrlknght">My Github</a>.
         </Footer>
       </Content>
       <Divider speed={0.1} offset={4}>
